@@ -6,5 +6,5 @@ public interface StudentAPI {
 	Student getName();
 	Student setName(Student newStudent);
 	Student getAge();
-	Student setAge(Student newstudent, int age);
+	Student setAge(Student newStudent, int age);
 }
