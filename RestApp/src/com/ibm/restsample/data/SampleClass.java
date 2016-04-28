@@ -1,13 +1,13 @@
 package com.ibm.restsample.data;
 
 public class SampleClass {
-	private int count;
+	private int cnt;
 
 	public int getCount() {
-		return count;
+		return cnt;
 	}
 
 	public void setCount(int count) {
-		this.count = count;
+		this.cnt = count;
 	}
 }
